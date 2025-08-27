@@ -18,7 +18,7 @@ Implementação da composição do quadro de forma aleatória permitindo várias
 
 | Campo      | Tipo       | exemplo       | Origem da Informação |
 |:-----------|:-----------|:--------------|----------------------|
-| `labek`    | `String`   | Jogo iniciado | `Aplicação`          |
+| `label`    | `String`   | Jogo iniciado | `Aplicação`          |
 
 ## Parâmetros
 Os seguintes parâmetros são necessários para rodar a aplicação:
