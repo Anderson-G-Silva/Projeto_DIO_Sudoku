@@ -1,4 +1,4 @@
-# Criando um Banco Digital com Java e Orientação a Objetos
+# Criando jogo de Sudoku com Java e Orientação a Objetos
 
 Criação de projeto para projeto de jogo de Sudoku de 9 posições. 
 Implementação da composição do quadro de forma aleatória permitindo várias possibilidades de jogos e níveis de dificuldade diferenciados
